@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>autoCreateFile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27e81660-f528-4ede-ab69-635f1a766fd1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15c4854a-4e3a-4f5c-8ebc-52c856bfd4ee</id>
+      <masked>false</masked>
+      <name>geneticaID</name>
+   </variable>
+</TestCaseEntity>
